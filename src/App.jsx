@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       
-    
+    <h1>linux</h1>
     </>
   )
 }
